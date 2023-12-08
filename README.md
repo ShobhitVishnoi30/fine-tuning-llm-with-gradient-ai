@@ -38,5 +38,8 @@ Welcome to Gradient, a powerful platform for fine-tuning language models and dep
 - **Gradient CLI:**
   - The Gradient Command-Line Interface (CLI) is a powerful tool to interact with the platform directly from the command line. It enables tasks such as fine-tuning models, querying models with prompts, and managing workspaces.
 
+**Documentation:**
+Explore the detailed documentation [here](https://docs.gradient.ai/docs/introduction) for comprehensive information on Gradient, including fine-tuning, inference, CLI usage, and more.
+
 **Conclusion:**
 With Gradient, you have the tools to fine-tune language models efficiently and use them in your applications. Explore the documentation, experiment with fine-tuning parameters, and join the vibrant community on Discord for support and feedback. Happy fine-tuning!
