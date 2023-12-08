@@ -1,4 +1,4 @@
-**Gradient AI: A Quick Overview and Setup Guide**
+**[Gradient AI](https://docs.gradient.ai/docs/introduction): A Quick Overview and Setup Guide**
 
 **Overview:**
 Welcome to Gradient, a powerful platform for fine-tuning language models and deploying them in production systems with ease. Gradient simplifies the process of fine-tuning, making it accessible through a straightforward API. Here, you'll find a brief guide to help you get started with Gradient, from setup to fine-tuning your own language model.
